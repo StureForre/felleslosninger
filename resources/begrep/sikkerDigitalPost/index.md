@@ -24,7 +24,7 @@ innbyggere.
 ### Innledning
 
 Dersom du nettopp har vært der og vil ha mer detaljer så sett deg først
-inn i følgende:
+inn i følgende :
 
 | --- | --- |
 | [Arkitekturen](innledning/arkitektur.md) | Oversikt over de sentrale aktørene |

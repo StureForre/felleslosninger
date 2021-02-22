@@ -41,6 +41,9 @@ folders:
 
   - title: Veiledning og klienter
     jurl: /sdp_index_innledning.html
+    
+  - title: Teknisk dokumentasjon
+    jurl: /dpi_index_innledning.html
 
 - title: eFormidling
   folderitems:

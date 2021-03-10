@@ -1,3 +1,9 @@
+---
+title: DPI_transport2  
+permalink: dpi_transport2.html
+sidebar: 
+---
+
 Dette dokumentet er eit framlegg til nytt, proprietært REST-api sikret med Maskinporten, for å sende Digital Post til Innbygger.
 
 
